@@ -1,4 +1,4 @@
-- Welcome to Agile Meta Tech Groove! 🎉
+Welcome to Agile Meta Tech Groove! 🎉
 
 About Us
 Hey there, fellow code maestros and design divas! 🚀 Welcome to Agile Meta Tech, where we don't just do tech – we throw a coding party! 💻✨ We're not your average tech agency; we're a crew of funky developers and designers on a mission to turn the tech scene into a dance floor.
